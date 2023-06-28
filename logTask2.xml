@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-28T11:55:15.008096400Z</date>
+  <millis>1687953315008</millis>
+  <nanos>96400</nanos>
+  <sequence>0</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.052293800Z</date>
+  <millis>1687953315052</millis>
+  <nanos>293800</nanos>
+  <sequence>1</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.052293800Z</date>
+  <millis>1687953315052</millis>
+  <nanos>293800</nanos>
+  <sequence>2</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.062765600Z</date>
+  <millis>1687953315062</millis>
+  <nanos>765600</nanos>
+  <sequence>3</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.063764400Z</date>
+  <millis>1687953315063</millis>
+  <nanos>764400</nanos>
+  <sequence>4</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.065765200Z</date>
+  <millis>1687953315065</millis>
+  <nanos>765200</nanos>
+  <sequence>5</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.066768200Z</date>
+  <millis>1687953315066</millis>
+  <nanos>768200</nanos>
+  <sequence>6</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.068764300Z</date>
+  <millis>1687953315068</millis>
+  <nanos>764300</nanos>
+  <sequence>7</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.070293800Z</date>
+  <millis>1687953315070</millis>
+  <nanos>293800</nanos>
+  <sequence>8</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.070293800Z</date>
+  <millis>1687953315070</millis>
+  <nanos>293800</nanos>
+  <sequence>9</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.070293800Z</date>
+  <millis>1687953315070</millis>
+  <nanos>293800</nanos>
+  <sequence>10</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.070293800Z</date>
+  <millis>1687953315070</millis>
+  <nanos>293800</nanos>
+  <sequence>11</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.070293800Z</date>
+  <millis>1687953315070</millis>
+  <nanos>293800</nanos>
+  <sequence>12</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.070293800Z</date>
+  <millis>1687953315070</millis>
+  <nanos>293800</nanos>
+  <sequence>13</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.070293800Z</date>
+  <millis>1687953315070</millis>
+  <nanos>293800</nanos>
+  <sequence>14</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.070293800Z</date>
+  <millis>1687953315070</millis>
+  <nanos>293800</nanos>
+  <sequence>15</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.086165Z</date>
+  <millis>1687953315086</millis>
+  <nanos>165000</nanos>
+  <sequence>16</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.087164400Z</date>
+  <millis>1687953315087</millis>
+  <nanos>164400</nanos>
+  <sequence>17</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.089165800Z</date>
+  <millis>1687953315089</millis>
+  <nanos>165800</nanos>
+  <sequence>18</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.090164100Z</date>
+  <millis>1687953315090</millis>
+  <nanos>164100</nanos>
+  <sequence>19</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.091165500Z</date>
+  <millis>1687953315091</millis>
+  <nanos>165500</nanos>
+  <sequence>20</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.092166200Z</date>
+  <millis>1687953315092</millis>
+  <nanos>166200</nanos>
+  <sequence>21</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.095167700Z</date>
+  <millis>1687953315095</millis>
+  <nanos>167700</nanos>
+  <sequence>22</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.099166Z</date>
+  <millis>1687953315099</millis>
+  <nanos>166000</nanos>
+  <sequence>23</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.100169100Z</date>
+  <millis>1687953315100</millis>
+  <nanos>169100</nanos>
+  <sequence>24</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.104169700Z</date>
+  <millis>1687953315104</millis>
+  <nanos>169700</nanos>
+  <sequence>25</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.106172400Z</date>
+  <millis>1687953315106</millis>
+  <nanos>172400</nanos>
+  <sequence>26</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+<record>
+  <date>2023-06-28T11:55:15.109170700Z</date>
+  <millis>1687953315109</millis>
+  <nanos>170700</nanos>
+  <sequence>27</sequence>
+  <logger>task2</logger>
+  <level>INFO</level>
+  <class>task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort item in array</message>
+</record>
+</log>
